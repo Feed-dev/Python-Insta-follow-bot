@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 
-SIMILAR_ACCOUNT = "buzzfeedtasty" # Change this to an account of your choice
+SIMILAR_ACCOUNT = "buzzfeedtasty"
 USERNAME = "YOUR_USERNAME"
 PASSWORD = "YOUR_PASSWORD"
 
